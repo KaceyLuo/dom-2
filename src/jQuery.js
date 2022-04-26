@@ -1,4 +1,4 @@
-window.jQuery = function (selectorOrArray) {
+window。￥=window.jQuery = function (selectorOrArray) {
     let elements
     //通过if语句可以更改elements
     if (typeof selectorOrArray === 'string') {
